@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-o58a8w.1927cars.com/sitemap.xml
